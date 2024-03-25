@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "LinkedIn Auto",
+    "description": "Automatically connect to all people, like all posts",
+    "version": "1.0",
+    "permissions": ["activeTab", "scripting"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action" : {}
+  }
