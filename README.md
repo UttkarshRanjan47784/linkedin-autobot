@@ -1,6 +1,6 @@
 # LinkedIn Autobot!
 
-- I want to present to you my second Chrome Extension!
+I want to present to you my second Chrome Extension! 🚀
 
 - When you visit your My Network page, with mere two clicks you can send connection requests to all people in your recommendation page!! (Only the people whose info is loaded in your browser tab)
 
